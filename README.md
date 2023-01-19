@@ -13,6 +13,6 @@ Using html and Tailwindcss
 
 ## Time taken to complete this Project
 
-18 hours
+20 hours
 
 [Live link](https://fluffy-sorbet-77ac5e.netlify.app/)
